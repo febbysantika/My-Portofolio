@@ -1,0 +1,16 @@
+[
+  {
+    "role": "Study Program Organization",
+    "organisation": "HIMATRPL",
+    "startDate": "March - Until now",
+    "experiences": ["As the Information, Communication, and Multimedia Division"],
+    "imageSrc": "history/hima.png"
+  },
+  {
+    "role": "Student Creativity Program",
+    "organisation": "Kemendikbud",
+    "startDate": "December 2021",
+    "experiences": ["Contribute to the Application of Science and Technology section"],
+    "imageSrc": "history/PKM.png"
+  }
+]

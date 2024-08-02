@@ -1,0 +1,9 @@
+[
+  {
+    "title": "Search Engine Optimaztion",
+    "imageSrc": "projects/project.png",
+    "description": "UAS SEO creates websites and implements SEO in them",
+    "skills": ["Html, Css, Bootstrap"],
+    "demo": "https://parfumku-nine.vercel.app/"
+  }
+]
